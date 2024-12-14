@@ -1,0 +1,4 @@
+L(G)={a^nb^n|n>0}
+L(G)={a^nb^2n|n>0}
+L(G)={wcw^i|w={a,b}*}
+L(G)={(a,b)^n|n>0}
